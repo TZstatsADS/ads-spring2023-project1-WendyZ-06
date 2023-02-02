@@ -6,7 +6,7 @@ Email: wz2632@columbia.edu
 
 Project 1: **A "Data Story" on History of Philosophy**
 
-<img src="figs/Philosophy.png" width="500">
+<img src="figs/philosophy.png" width="500">
 
 
 ### [Project Description](doc/)
